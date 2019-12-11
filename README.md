@@ -42,7 +42,7 @@ It’s strongly recommended that the implementation of the program involve colla
 
 Before beginning, make sure that you understand the expectations for the activity.
 
-* Who will you be working with? Are you allowed to work with a partner? In a group ofthree or four?
+* Who will you be working with? Are you allowed to work with a partner? In a group of three or four?
 * Among the members of your group (or with your partner), how will the implementationbe completed?
 * If you’ll be using pair programming, will your teacher be instructing you when to switch driver and navigator, or is this something that you need to keep track of?
 * What should you do if your group/pair is stuck? Does your teacher want you to come straight to them? Are you allowed to ask another group?
